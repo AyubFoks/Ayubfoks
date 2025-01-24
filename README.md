@@ -65,7 +65,7 @@
 </div>
 
 ###
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=suhaib3100&theme=dark&hide_border=true)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
