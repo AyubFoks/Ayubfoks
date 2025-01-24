@@ -49,6 +49,7 @@
 ###
 
 <div align="left">
+    <a href="https://www.linkedin.com/in/suhaib-sz/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
   <a href="https://discord.com/invite/800265791043534848" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="27" alt="discord logo"  />
