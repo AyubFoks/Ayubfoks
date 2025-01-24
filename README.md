@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <h2 align="left">Hi 👋! My name is Suhaib and I'm a Web Developer, Entrepreneur, and AI Enthusiast, from India</h2>
 
 ###
