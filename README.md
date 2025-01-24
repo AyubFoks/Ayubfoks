@@ -44,9 +44,6 @@
 </div>
 
 ###
-
-<img align="right" height="164" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
