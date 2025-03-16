@@ -153,11 +153,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=When%20you%20want%20something%20in%20life%2C%20you%20just%20gotta%20reach%20out%20and%20grab%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=To%20the%20world%20you%20may%20be%20one%20person%3B%20but%20to%20one%20person%20you%20may%20be%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
