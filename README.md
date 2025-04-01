@@ -169,11 +169,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bette%20Midler&quote=The%20worst%20part%20of%20success%20is%20trying%20to%20find%20someone%20who%20is%20happy%20for%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20hard%20path%20is%20often%20the%20right%20one.%20The%20river%20teaches%20more%20than%20the%20shore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
