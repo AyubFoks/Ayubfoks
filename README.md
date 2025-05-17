@@ -39,72 +39,57 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3> <ul align="left"> <li>Expanding my expertise in Next.js for full-stack development.</li> <li>Deepening my understanding of Python OOP concepts.</li> <li>Enhancing my backend skills with Express and API development.</li> </ul>
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Expanding my expertise in Next.js for full-stack development.</li>
+  <li>Deepening my understanding of Python OOP concepts.</li>
+  <li>Enhancing my backend skills with Express and API development.</li>
+  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
+  <li>Learning about serverless functions and microservices architecture.</li>
+  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
+  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
+  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+</ul>
   
 <br />
 <br />
 <br />
 
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Suhaib3100">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Suhaib3100&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Suhaib3100&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Suhaib3100&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<br />
+<br clear="both"/>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Suhaib3100">
-          <img align="center" src="https://github-readme-streak-stats-ranit.vercel.app/?user=Suhaib3100&theme=radical&hide_border=true  " alt="GitHub Stats" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3><strong>GitHub Stats</strong></h3>
+      <a href="https://github.com/Suhaib3100">
+        <img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Suhaib3100">
-          <img align="center" src="https://streak-stats.demolab.com?user=Suhaib3100&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/Suhaib3100">
+        <img src="https://streak-stats.demolab.com?user=Suhaib3100&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Suhaib3100/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib3100&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
+    <td align="center">
+      <h3><strong>Latest Project</strong></h3>
+      <a href="https://github.com/Suhaib3100/plura-saas">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib3100&repo=plura-saas&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Suhaib3100">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Suhaib3100&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
+    <td align="center">
+      <h3><strong>Top Contributions</strong></h3>
+      <a href="https://github.com/Suhaib3100">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Suhaib3100&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      </a>
     </td>
   </tr>
 </table>
