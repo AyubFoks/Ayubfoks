@@ -81,7 +81,7 @@
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/Suhaib3100/plura-saas">
+      <a href="https://github.com/Suhaib3100/multi-format-ai-agents">
         <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib3100&repo=plura-saas&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
       </a>
     </td>
