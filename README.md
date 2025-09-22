@@ -1,5 +1,5 @@
 <!--Banner-->
-![Suhaib's Banner Image](./banner.png)
+![Ayub's Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -7,23 +7,22 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Suhaib! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo, Whagwan? I'm Ayub 
+*Fullstack Developer*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, Express, and Python, along with experience in building APIs and backend systems.</p>
+<p align="left">I am a passionate human, problem solver, organic team lead, fiercely local yet globally competitive. I bridge the gap between strategy, design and development.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [Once UI](https://once-ui.com)
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ceo.pronexus.in) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Suhaib3100&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=AyubFoks&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -66,28 +65,28 @@
   <tr>
     <td width="50%" align="center">
       <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/Suhaib3100">
-        <img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
+      <a href="https://github.com/AyubFoks">
+        <img src="https://github-readme-stats.vercel.app/api?username=AyubFoks&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/Suhaib3100">
-        <img src="https://streak-stats.demolab.com?user=Suhaib3100&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      <a href="https://github.com/AyubFoks">
+        <img src="https://streak-stats.demolab.com?user=AyubFoks&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/Suhaib3100/multi-format-ai-agents">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib3100&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
+      <a href="https://github.com/AyubFoks/multi-format-ai-agents">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AyubFoks&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
       </a>
     </td>
     <td align="center">
       <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/Suhaib3100">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Suhaib3100&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      <a href="https://github.com/AyubFoks">
+        <img src="https://github-contributor-stats.vercel.app/api?username=AyubFoks&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
       </a>
     </td>
   </tr>
@@ -97,7 +96,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaib3100&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyubFoks&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -228,8 +227,8 @@
 <img src="./instagram.png" width=50 height=50 alt="suhaib_s_z" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Suhaib3100" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/AyubFoks" target="_blank">
+<img src="./github.png" width=50 height=50 alt="AyubFoks" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/suhaib-sz" target="_blank">
@@ -246,7 +245,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AyubFoks/AyubFoks/output/snake.svg" alt="Snake animation" />
 
 <!--Footer--> 
 <p align="center">
