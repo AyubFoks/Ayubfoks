@@ -105,110 +105,11 @@
 <h2 align="center">🌟 Thought of the day 🌟</h2>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--Contact Section--> 
@@ -240,12 +141,12 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://buymeacoffee.com/suhaibking7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://buymeacoffee.com/ayubfoks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AyubFoks/AyubFoks/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 <!--Footer--> 
 <p align="center">
