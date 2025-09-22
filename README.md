@@ -113,26 +113,18 @@
 
 
 <!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Let's Connect 🤝 </h2>
 <div align="center">
   
-<a href="mailto:suhaibking310@gmail.com" target="_blank">
+<a href="mailto:ayubfoks@live.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/Suhaib_King" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/suhaib_s_z" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="suhaib_s_z" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/AyubFoks" target="_blank">
 <img src="./github.png" width=50 height=50 alt="AyubFoks" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/suhaib-sz" target="_blank">
+<a href="https://www.linkedin.com/in/ayubkaranja/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
@@ -146,7 +138,7 @@
 
 <br clear="both">
 
-<img src="snake.svg" alt="Snake animation" />
+<img align="center" src="snake.svg" alt="Snake animation" />
 
 <!--Footer--> 
 <p align="center">
