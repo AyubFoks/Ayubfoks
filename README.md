@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I passionate software engineer and organic team lead focused on solving real problems. I translate complex ideas into elegant, functional code to build products that are both globally scalable and locally relevant.</p>
+<p align="left">I am a passionate software engineer and organic team lead focused on solving real problems. I translate complex ideas into elegant, functional code to build products that are both globally scalable and locally relevant.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
