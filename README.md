@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo, Whagwan? I'm Ayub 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Jambo? I'm Ayub 
 *Fullstack Developer*
 <br /> 
 
