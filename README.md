@@ -14,10 +14,11 @@
 <!--Start Intro-->               
 <p align="left">I am a passionate software engineer and organic team lead focused on solving real problems. I translate complex ideas into elegant, functional code to build products that are both globally scalable and locally relevant.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [Once UI](https://once-ui.com)
-- ❤ Contributing to Open Source.
+<p align="left">Beyond my desk, I am committed to being a present husband and engaged dad. Guided by my faith, I champion sustainable solutions, environmental stewardship, and social justice—working to build more dignified communities in all aspects of life.</p>
+
+- 🧑‍🎓 Student of life :)
+- ✨ I’m currently learning many things, I believe that every day is a learning opportunity.
+- 🚧 Contributing to Open Source.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -39,7 +40,7 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Expanding my expertise in Next.js for full-stack development.</li>
+  <li>Expanding my expertise in React.js for full-stack development.</li>
   <li>Deepening my understanding of Python OOP concepts.</li>
   <li>Enhancing my backend skills with Express and API development.</li>
   <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
