@@ -118,15 +118,15 @@
 <div align="center">
   
 <a href="mailto:ayubfoks@live.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
+<img src="./mail.svg" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/AyubFoks" target="_blank">
-<img src="./github.png" width=50 height=50 alt="AyubFoks" style="margin-bottom: 5px;" />
+<img src="./github.svg" width=50 height=50 alt="AyubFoks" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/ayubkaranja/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 </div>
@@ -134,7 +134,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://buymeacoffee.com/ayubfoks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://buymeacoffee.com/ayubfoks" target="_blank"><img src="./bmc.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 <br clear="both">
