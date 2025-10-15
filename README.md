@@ -80,8 +80,8 @@
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/AyubFoks/multi-format-ai-agents">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ayubfoks&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Farmers' Connect" />
+      <a href="https://github.com/AyubFoks/lifelink">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ayubfoks&repo=lifelink&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="LifeLink" />
       </a>
     </td>
     <td align="center">
