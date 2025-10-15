@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail-icon lucide-mail"><path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"/><rect x="2" y="4" width="20" height="16" rx="2"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.42 58.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #742776;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-2" x="0" y="0" width="58.42" height="58.42" rx="29.21" ry="29.21"/>
+    <g>
+      <path class="cls-1" d="M29.2,32.02c-.77,0-1.53-.2-2.21-.6l-14.54-9.25c-.56-.36-.73-1.1-.37-1.67.36-.56,1.1-.73,1.67-.37l14.5,9.22c.59.34,1.36.34,1.98-.03l14.44-9.2c.56-.36,1.31-.19,1.67.37.36.56.19,1.31-.37,1.67l-14.48,9.22c-.71.42-1.5.62-2.28.62Z"/>
+      <path class="cls-1" d="M42.1,43.3h-25.77c-2.44,0-4.43-1.99-4.43-4.43v-19.33c0-2.44,1.99-4.43,4.43-4.43h25.77c2.44,0,4.43,1.99,4.43,4.43v19.33c0,2.44-1.99,4.43-4.43,4.43ZM16.32,17.53c-1.11,0-2.01.9-2.01,2.01v19.33c0,1.11.9,2.01,2.01,2.01h25.77c1.11,0,2.01-.9,2.01-2.01v-19.33c0-1.11-.9-2.01-2.01-2.01h-25.77Z"/>
+    </g>
+  </g>
+</svg>
