@@ -129,12 +129,10 @@
 <img src="./linkedin.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-</div>
-<br/>
+<a href="https://buymeacoffee.com/ayubfoks" target="_blank">
+<img src="./bmc.svg" alt="Buy Me A Coffee" style="height: 50px !important;" >
+</a>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://buymeacoffee.com/ayubfoks" target="_blank"><img src="./bmc.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 <br clear="both">
