@@ -73,7 +73,7 @@
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/AyubFoks">
-        <img src="https://streak-stats.demolab.com?user=AyubFoks&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=AyubFoks&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
       </a>
     </td>
   </tr>
